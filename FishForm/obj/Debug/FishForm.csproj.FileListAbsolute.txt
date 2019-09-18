@@ -1,0 +1,12 @@
+C:\Users\Kerri\source\repos\Fish5\FishForm\bin\Debug\FishForm.exe.config
+C:\Users\Kerri\source\repos\Fish5\FishForm\bin\Debug\FishForm.exe
+C:\Users\Kerri\source\repos\Fish5\FishForm\bin\Debug\FishForm.pdb
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.csprojAssemblyReference.cache
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.FishData.resources
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.ObserverFull.resources
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.Properties.Resources.resources
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.csproj.GenerateResource.cache
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.csproj.CoreCompileInputs.cache
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.exe
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.pdb
+C:\Users\Kerri\source\repos\Fish5\FishForm\obj\Debug\FishForm.ObsSize.resources
